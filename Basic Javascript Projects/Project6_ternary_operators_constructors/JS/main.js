@@ -11,7 +11,7 @@ function Vote_Function() {
     var Age, Can_vote;
     Age = document.getElementById("Vote").value;
     Can_vote = (Age < 18) ? "You are too young":"You are old enough";
-    document.getElementByIdk("Vote").innerHTML = Can_vote + " to ride.";
+    document.getElementById("Vote").innerHTML = Can_vote + " to ride.";
 }
 //constructor program using keywords
 function Vehicle(Make, Model, Year, Color) {
@@ -59,7 +59,7 @@ function Person(first, last, age, eye) {
 }
 const myMother = new Person("Junie", "Bug", 55, "Blue")
 document.getElementById("Persons").innerHTML = 
-"My Mother is " = "myMother.age" + ".";
+"My Mother is " + myMother.age + ".";
 
 
 //using nested functions
