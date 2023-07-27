@@ -1,4 +1,23 @@
 # JavaScript-Projects
-For new projects using javascript 
+Projects using javascript, basic and small but showing the exercises we've gone though.
 
-Here I will be demonstrating new experiences within javascript as I go along the course. Thank you.
+Some of those include:
+
+Projects:
+
+-Pizza Menu
+  (Delicious pizza ordering and basic menu options)
+  
+-Calculator
+  (functional basic calculator)
+  
+-TicTacToe Game
+  (Interactive game with the computer)
+-SpaceStation Project
+
+-OnePage Project 
+  (Show casing all about puppies and adopting them!)
+  
+-BootStrap Cinamas Project
+  (Basic Movie Theater web page with show listings)
+
